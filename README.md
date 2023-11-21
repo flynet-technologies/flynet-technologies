@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flynet-technologies&label=Profile%20views&color=0e75b6&style=flat" alt="flynet-technologies" /> </p>
 
-- 📫 How to reach me **info@flynettech.com**
+- 📫 How to reach us **info@flynettech.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
