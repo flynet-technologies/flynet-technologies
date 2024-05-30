@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, We're Flynet Tecnologies Pvt., Ltd.,</h1>
+<h1 align="center">Hi 👋, We're Flynet Technologies Pvt., Ltd.,</h1>
 <h3 align="center">We're team of passionate Software developers from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flynet-technologies&label=Profile%20views&color=0e75b6&style=flat" alt="flynet-technologies" /> </p>
